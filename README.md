@@ -9,7 +9,7 @@ O "Perfume Card Website" é um site simples criado para exibir informações sob
 
 <p>Neste site, você encontrará uma seleção cuidadosamente escolhida de perfumes de alta qualidade. Cada cartão de perfume exibe informações essenciais sobre o produto, para que você possa explorar suas características de maneira conveniente.</p>
 
-<img align="center" alt="Perfume Card Website" height="300" width="1280" src="https://i.imgur.com/a0FGkj6.png">
+<img align="center" alt="Perfume Card Website" height="720" width="1280" src="https://i.imgur.com/a0FGkj6.png">
 
 <hr>
 
