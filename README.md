@@ -1,27 +1,30 @@
-# ProductPreviewCard
+<h1>Perfume Card Website</h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.0.
+O "Perfume Card Website" é um site simples criado para exibir informações sobre diferentes perfumes. Com este site, você pode explorar uma coleção de perfumes, visualizar seus detalhes, preços, descrições curtas e imagens.
 
-## Development server
+<h2>Introdução</h2>
+<p>O "Perfume Card Website" é um projeto desenvolvido por mim para apresentar diversos perfumes de maneira elegante e informativa. Como alguém apaixonado por fragrâncias e beleza, decidi combinar essa paixão com minhas habilidades de web development para criar este site.</p>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<p>Neste site, você encontrará uma seleção cuidadosamente escolhida de perfumes de alta qualidade. Cada cartão de perfume exibe informações essenciais sobre o produto, para que você possa explorar suas características de maneira conveniente.</p>
 
-## Code scaffolding
+<img align="center" alt="Perfume Card Website" height="500" width="1280" src="https://i.imgur.com/a0FGkj6.png">
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<hr>
 
-## Build
+<h2>Explorando os Perfumes</h2>
+<p>No "Perfume Card Website", você pode navegar pela coleção de perfumes e obter detalhes importantes. Cada cartão de perfume inclui o nome do perfume, o preço, uma breve descrição e uma imagem atraente para dar uma ideia do produto.</p>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+<h3>Exemplo de Cartão de Perfume:</h3>
 
-## Running unit tests
+<hr>
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+<h2>Encontre o Seu Perfume Ideal</h2>
+<p>Se você é um entusiasta de perfumes, o "Perfume Card Website" é o lugar perfeito para descobrir novas fragrâncias. Nossa coleção é atualizada regularmente, então fique atento às últimas adições!</p>
 
-## Running end-to-end tests
+<h2>Recursos Adicionais</h2>
+<ul>
+  <li>Se desejar saber mais sobre perfumes e suas notas, você pode visitar <a href="url_para_recurso_sobre_perfumes">este recurso</a>.</li>
+  <li>Para receber recomendações personalizadas com base nas suas preferências de fragrâncias, confira <a href="url_para_recurso_de_recomendacoes">este serviço</a>.</li>
+</ul>
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Lembre-se de substituir as informações relevantes, como a URL da imagem do site, a URL da imagem do cartão de perfume e os URLs dos recursos adicionais. Além disso, adicione qualquer informação adicional que você julgar relevante para a página.
