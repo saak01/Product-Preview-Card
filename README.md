@@ -1,13 +1,12 @@
-<h1>Perfume Card Website</h1>
+<h1>Perfume Card </h1>
 
 </br><a href="https://card-perfume-2.netlify.app/">Link</a>
 
-O "Perfume Card Website" é um site simples criado para exibir informações sobre diferentes perfumes. Com este site, você pode explorar uma coleção de perfumes, visualizar seus detalhes, preços, descrições curtas e imagens.
-
+O "Perfume Card Responsivo" é um elemento de design projetado para exibir informações sobre diferentes perfumes de forma atraente e adaptável a dispositivos variados. Com este card, você pode explorar uma coleção de perfumes, visualizar detalhes essenciais, preços, descrições curtas e imagens de maneira responsiva.
 <h2>Introdução</h2>
-<p>O "Perfume Card Website" é um projeto desenvolvido por mim para apresentar diversos perfumes de maneira elegante e informativa. Como alguém apaixonado por fragrâncias e beleza, decidi combinar essa paixão com minhas habilidades de web development para criar este site.</p>
+<p>O "Perfume Card Responsivo" é uma solução desenvolvida para apresentar uma variedade de perfumes de forma elegante e informativa. Como entusiasta de fragrâncias e beleza, decidi unir essa paixão às minhas habilidades de desenvolvimento web para criar este recurso.</p>
+<p>Neste card, você terá acesso a uma seleção criteriosamente escolhida de perfumes de alta qualidade. Ele exibe informações essenciais sobre o produto, permitindo que você explore suas características de forma conveniente e adaptada a diferentes dispositivos.</p>
 
-<p>Neste site, você encontrará uma seleção cuidadosamente escolhida de perfumes de alta qualidade. O cartão de perfume exibe informações essenciail sobre o produto, para que você possa explorar suas características de maneira conveniente.</p>
 
 <img align="center" alt="Perfume Card Website" height="720" width="1280" src="https://i.imgur.com/a0FGkj6.png">
 
