@@ -2,7 +2,7 @@
 
 </br><a href="https://card-perfume-2.netlify.app/">Link</a>
 
-O "Perfume Card Responsivo" é um elemento de design projetado para exibir informações sobre diferentes perfumes de forma atraente e adaptável a dispositivos variados. Com este card, você pode explorar uma coleção de perfumes, visualizar detalhes essenciais, preços, descrições curtas e imagens de maneira responsiva.
+O "Perfume Card " é um elemento de design projetado pelo Front-end Mentor para exibir informações sobre diferentes perfumes de forma atraente e adaptável a dispositivos variados. Com este card, você pode explorar uma coleção de perfumes, visualizar detalhes essenciais, preços, descrições curtas e imagens de maneira responsiva.
 <h2>Introdução</h2>
 <p>O "Perfume Card Responsivo" é uma solução desenvolvida para apresentar uma variedade de perfumes de forma elegante e informativa. Como entusiasta de fragrâncias e beleza, decidi unir essa paixão às minhas habilidades de desenvolvimento web para criar este recurso.</p>
 <p>Neste card, você terá acesso a uma seleção criteriosamente escolhida de perfumes de alta qualidade. Ele exibe informações essenciais sobre o produto, permitindo que você explore suas características de forma conveniente e adaptada a diferentes dispositivos.</p>
