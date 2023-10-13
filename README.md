@@ -12,6 +12,19 @@ O "Perfume Card Website" é um site simples criado para exibir informações sob
 <img align="center" alt="Perfume Card Website" height="720" width="1280" src="https://i.imgur.com/a0FGkj6.png">
 
 <hr>
+<h2>Como Executar o Projeto</h2>
+<p>Siga os passos abaixo para executar o projeto em sua máquina local:</p>
+
+<h3>Pré-requisitos</h3>
+<p>Certifique-se de ter o Angular CLI instalado em sua máquina. Caso ainda não tenha, você pode instalá-lo globalmente usando o seguinte comando:</p>
+
+<hr>
+<pre><code>
+  
+npm install -g @angular/cli
+</code></pre>
+
+<hr>
 
 <h3>Clone o Repositório</h3>
 <pre><code>git clone https://github.com/seu-usuario/pokedex-app.git</code></pre>
