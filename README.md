@@ -11,7 +11,6 @@ O "Perfume Card Website" é um site simples criado para exibir informações sob
 
 <img align="center" alt="Perfume Card Website" height="720" width="1280" src="https://i.imgur.com/a0FGkj6.png">
 
-<hr>
 <h2>Como Executar o Projeto</h2>
 <p>Siga os passos abaixo para executar o projeto em sua máquina local:</p>
 
@@ -46,3 +45,10 @@ npm install -g @angular/cli
   <li>Se desejar aprender mais sobre o desenvolvimento de aplicativos Angular, recomendamos a <a href="https://angular.io/tutorial">documentação oficial do Angular</a> e o <a href="https://angular.io/guide/quickstart">guia de início rápido do Angular</a>.</li>
   <li>Para obter ajuda adicional sobre desenvolvimento Angular, você pode visitar a <a href="https://angular.io/docs">documentação online</a>, que oferece tutoriais, amostras e uma referência completa da API.</li>
 </ul>
+
+
+
+
+
+
+
